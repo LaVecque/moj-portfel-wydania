@@ -1,0 +1,12 @@
+Mój Portfel
+© LaVecque. Wszelkie prawa zastrzeżone.
+
+Aplikacja (program na Windowsa, aplikacja na Androida, strona w przeglądarce) i jej kod są chronione prawem autorskim.
+Wolno pobrać pliki z tego repozytorium i z tej strony oraz używać aplikacji na własne potrzeby.
+Bez pisemnej zgody autora zabronione jest kopiowanie, modyfikowanie, odtwarzanie, rozpowszechnianie, udostępnianie
+pod inną nazwą lub w innym miejscu oraz sprzedaż aplikacji, jej kodu lub ich części.
+
+Informacje i wyliczenia w aplikacji (m.in. ceny, kursy, wyceny, zwroty, podatki) mają wyłącznie charakter informacyjny,
+mogą być niepełne, opóźnione lub błędne i nie stanowią porady inwestycyjnej, finansowej, podatkowej ani prawnej,
+rekomendacji ani oferty. Decyzje inwestycyjne i rozliczenia podatkowe podejmujesz na własną odpowiedzialność;
+przed nimi sprawdź dane u źródła albo skonsultuj się z doradcą. Autor nie odpowiada za skutki korzystania z aplikacji.
